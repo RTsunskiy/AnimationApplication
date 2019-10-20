@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/horse0"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/horse1"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/horse2"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/horse3"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/horse4"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/horse5"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/horse6"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse7"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse8"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse9"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse10"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse11"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse12"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse13"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse14"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse15"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse16"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse17"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse18"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse19"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse20"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse21"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse22"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse23"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse24"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse25"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse26"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse27"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse28"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse29"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse30"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse31"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse32"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse33"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse34"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse35"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse36"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse37"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse38"
+        android:duration="100" />
+
+
+    <item
+        android:drawable="@drawable/horse39"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse40"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse41"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse42"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse43"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse44"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse45"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse46"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse47"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse48"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse49"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse50"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse51"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse52"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse53"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse54"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse55"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse56"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse57"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse58"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse59"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse60"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse61"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse62"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse63"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse64"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse65"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/horse66"
+        android:duration="100" />
+</animation-list>
